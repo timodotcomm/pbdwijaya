@@ -1,0 +1,72 @@
+{
+  "source": "https://pbdwijaya.co.id/",
+  "pages": [
+    "Home",
+    "Profil/Profile",
+    "Produk/Product",
+    "Layanan/Services",
+    "Klien/Clients",
+    "Proyek/Projects",
+    "Hubungi Kami/Contact",
+    "Lowongan Kerja"
+  ],
+  "remote_assets": [
+    "https://pbdwijaya.co.id/wp-content/uploads/2025/07/01-nestle.webp",
+    "https://pbdwijaya.co.id/wp-content/uploads/2025/07/02-frisian.webp",
+    "https://pbdwijaya.co.id/wp-content/uploads/2025/07/03-universal.webp",
+    "https://pbdwijaya.co.id/wp-content/uploads/2025/07/04-metland.webp",
+    "https://pbdwijaya.co.id/wp-content/uploads/2025/07/05-ancolterang.webp",
+    "https://pbdwijaya.co.id/wp-content/uploads/2025/07/06-hino.webp",
+    "https://pbdwijaya.co.id/wp-content/uploads/2025/07/07-garudafood.webp",
+    "https://pbdwijaya.co.id/wp-content/uploads/2025/07/08-mattel.webp",
+    "https://pbdwijaya.co.id/wp-content/uploads/2025/07/09-huawei.webp",
+    "https://pbdwijaya.co.id/wp-content/uploads/2025/07/10-bridgestone.webp",
+    "https://pbdwijaya.co.id/wp-content/uploads/2025/09/klien2025-1.webp",
+    "https://pbdwijaya.co.id/wp-content/uploads/2025/09/klien2025-2.webp",
+    "https://pbdwijaya.co.id/wp-content/uploads/2025/09/klien2025-3.webp"
+  ],
+  "documents": [
+    {
+      "name": "Sistem Manajemen K3L Kontraktor",
+      "type": "Sertifikasi",
+      "url": "https://pbdwijaya.co.id/wp-content/uploads/2022/09/COSMO_PT.PB-DWIJAYA.pdf"
+    },
+    {
+      "name": "Sertifikat PGN 2024",
+      "type": "Sertifikasi",
+      "url": "https://pbdwijaya.co.id/profil/"
+    },
+    {
+      "name": "Sertifikat SMK3",
+      "type": "Sertifikasi",
+      "url": "https://pbdwijaya.co.id/profil/"
+    },
+    {
+      "name": "SKT MIGAS PMDN",
+      "type": "Sertifikasi",
+      "url": "https://pbdwijaya.co.id/profil/"
+    },
+    {
+      "name": "NIB PT. Prima Berkarya Dwijaya",
+      "type": "Legalitas",
+      "url": "https://pbdwijaya.co.id/wp-content/uploads/2022/09/NIB-PT-PRIMA-BERKARYA-DWIJAYA.pdf"
+    },
+    {
+      "name": "SIUP",
+      "type": "Legalitas",
+      "url": "https://pbdwijaya.co.id/wp-content/uploads/2022/09/SIUP-.pdf"
+    },
+    {
+      "name": "Izin Lokasi",
+      "type": "Legalitas",
+      "url": "https://pbdwijaya.co.id/profil/"
+    }
+  ],
+  "notes": "Logo updated to the user-provided file. Homepage hero converted into a slideshow-style visual treatment.",
+  "local_assets": [
+    "assets/logo-pbd.png",
+    "assets/hero-1.png",
+    "assets/hero-2.png",
+    "assets/hero-3.png"
+  ]
+}
